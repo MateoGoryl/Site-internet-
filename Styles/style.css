@@ -1,0 +1,16 @@
+@import "banner.css";
+@import "button.css";
+@import "footer.css";
+@import "cards.css" ;
+@import "bannerr.css" ;
+@import "cardss.css" ;
+
+body {
+	margin: 0;
+	background-color: rgba(9,26,60,255);
+}
+
+h2 {
+	color: white; 
+	text-align: center;
+	}

@@ -1,0 +1,11 @@
+#bannerr {
+	height: 70vh;
+	background-image: url("../Images/classe.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white; 
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}

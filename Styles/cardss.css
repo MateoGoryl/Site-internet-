@@ -1,0 +1,22 @@
+.card-whites {
+	background-color: rgba(198,243,13,255);
+	border-radius: 30px; 
+	text-align: center;
+	padding: 16px; 
+	margin-top: 8px;
+	box-shadow: 1px 2px 6px 4px rgba(0, 0, 0, 0.7)
+}
+
+.card-whites img {
+	height: 110px;
+	width: 110px; 
+	object-fit: cover; 
+}
+
+.cardss {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	grid-gap: 21px; 
+	margin: 16px 8px;
+}
+
